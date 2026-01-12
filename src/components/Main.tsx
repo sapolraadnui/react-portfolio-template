@@ -16,8 +16,8 @@ function Main() {
             <a href="https://github.com/sapolraadnui" target="_blank" rel="noreferrer"><GitHubIcon/></a>
             <a href="https://www.linkedin.com/in/paulraadnui/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
           </div>
-          <h1>Yuji Sato</h1>
-          <p>Full Stack Engineer</p>
+          <h1>Paul Raadnui</h1>
+          <p>Data Scientist/ Geophysicist</p>
 
           <div className="mobile_social_icons">
             <a href="https://github.com/sapolraadnui" target="_blank" rel="noreferrer"><GitHubIcon/></a>
