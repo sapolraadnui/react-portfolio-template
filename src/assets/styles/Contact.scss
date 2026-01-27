@@ -46,3 +46,8 @@ form {
   width: 100% !important;
   margin-bottom: 15px !important;
 }
+/* ===== FORCE CONTACT FORM ABOVE ANY OVERLAY ===== */
+#contact {
+  position: relative !important;
+  z-index: 99999 !important;
+}
