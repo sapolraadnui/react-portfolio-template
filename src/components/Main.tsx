@@ -23,7 +23,7 @@ function Main() {
           </div>
 
           <h1>Paul Raadnui</h1>
-          <p>Data Scientist / Geophysicist</p>
+          <p>Data Scientist</p>
 
           <div className="mobile_social_icons">
             <a href="https://github.com/sapolraadnui" target="_blank" rel="noreferrer">
